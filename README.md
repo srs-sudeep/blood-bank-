@@ -1,26 +1,3 @@
-# Blood Bank Project
-
-
- This blood bank project implements a terminal node js application that allows the user to SELECT, DELETE, INSERT, UPDATE, INNER JOIN. 
- 
- 
- ## ER-Diagram
- 
- ![ER-Diagram](https://i.imgur.com/FXhGkYt.png)
-
-## Dependencies Used 
-- mysql
-- console.table
-- inquirer
-- dotenv
-
-## Installation
-
-OS X & Linux:
-
-```sh
-// clone the repo into computer 
-git clone https://github.com/michellbrito/bloodbank.git
 
 // cd into the repo
 cd bloodbank
@@ -48,8 +25,5 @@ node bloodbank.js
  `node bloodbank.js`
  
 - You can now SELECT, INSERT, UPDATE, DELETE, SELECT INNER JOINS, QUIT by clicking the options
-
-![Video](blood_bank_demo.gif)
-
 
 
